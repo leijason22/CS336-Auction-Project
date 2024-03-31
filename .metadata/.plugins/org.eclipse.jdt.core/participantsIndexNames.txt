@@ -1,3 +1,7 @@
 INDEX VERSION 1.134
+/Users/jasonjasoon/Documents/data336/eclipse-workspace2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3320447379.index
+/cs336Sample/src/main/java
+/Users/jasonjasoon/Documents/data336/eclipse-workspace2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2871423808.index
+/loginRegister/src/main/java
 /Users/jasonjasoon/eclipse-workspace2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3320447379.index
 /cs336Sample/src/main/java
